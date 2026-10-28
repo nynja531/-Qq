@@ -1,0 +1,6 @@
+{
+  "name": "♡ قرآنك",
+  "description": "تطبيق قرآنك الكريم والمصحف الشريف بتلاوات خاشعة لأكثر من 100 قارئ مع روايات متعددة، وأذكار المسلم الشاملة مع دعم العمل بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

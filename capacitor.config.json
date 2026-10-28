@@ -1,0 +1,6 @@
+{
+  "appId": "com.qurank.app",
+  "appName": "Qurank",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
